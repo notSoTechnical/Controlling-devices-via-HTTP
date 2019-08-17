@@ -8,8 +8,8 @@
 #include <Servo.h>
 Servo servo;
  
-const char* ssid = "190WhiteStreet";
-const char* password = "whitestreethouse190";  
+const char* ssid = "XXXXXX";  //User's wifi name 
+const char* password = "XXXXXX";  //User's wifi password 
 
 WiFiServer server(80);
  
