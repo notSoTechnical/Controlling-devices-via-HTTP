@@ -1,6 +1,6 @@
 # Controlling-devices-from-HTTP
 
-This project can interface with Alexa via https://tehpsyc.pythonanywhere.com/ 
+This project can interface with Alexa (and iOS using IP address) via https://tehpsyc.pythonanywhere.com/ 
 Note: Port forward your router and change the internal IP address to external IP address on IR Controller Device Setup 
 
 Example: 
