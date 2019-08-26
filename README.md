@@ -1,6 +1,7 @@
 # Controlling-devices-from-HTTP
 
-Hardware components: ESP826, 1838T Infrared Receiver, Infrared Sender(infrared emitting diode,IR333C-A), any NPN transistor 
+**Hardware components:** <br>
+ESP826, 1838T Infrared Receiver, Infrared Sender(infrared emitting diode,IR333C-A), any NPN transistor 
 
 Check this website for circuit wiring details: https://www.instructables.com/id/Universal-Remote-Using-ESP8266Wifi-Controlled/
 
