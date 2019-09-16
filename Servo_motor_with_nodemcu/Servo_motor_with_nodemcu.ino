@@ -1,6 +1,6 @@
 /*****************************************************
  * Date: 13 july 2018
- * Written by: Usman Ali Butt and Anni Yang 
+ * Written by: Usman Ali Butt  
  * Property off: www.microcontroller-project.com
  * ***************************************************/
  
