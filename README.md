@@ -1,5 +1,6 @@
 # Controlling-devices-from-HTTP
 
+-> Light + TV
 **Hardware components:** <br>
 ESP8266, 1838T Infrared Receiver, Infrared Sender(infrared emitting diode,IR333C-A), any NPN transistor 
 
