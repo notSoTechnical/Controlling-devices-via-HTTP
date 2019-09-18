@@ -7,6 +7,7 @@
  * JVC and Panasonic protocol added by Kristian Lauszus
  *   (Thanks to zenwheel and other people at the original blog post)
  * LG added by Darryl Smith (based on the JVC protocol)
+ *Tested by Anni Yang 2019
  */
 
 #ifndef UNIT_TEST
