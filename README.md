@@ -13,5 +13,5 @@ Example:
 Internal IP: http://10.0.0.107/5/on
 Change it to external IP + Port 80: http://25.68.180.15:80/5/on 
   
-**Controling a servo motor with ESP8266:** https://www.microcontroller-project.com/servo-motor-with-nodemcu-web-control.html
+**Controling a servo motor with ESP8266:** https://www.microcontroller-project.com/servo-motor-with-nodemcu-web-control.html <br>
 HTML converter: https://amzdatastudio.com/user/html-converter
