@@ -23,7 +23,6 @@ Datasheet for 1838T IR: http://wiki.epalsite.com/index.php?title=1838T_Infrared_
 
 https://www.amazon.com/XRT122-D32H-D1-D32X-D1-D39H-D0-D40U-D1/dp/B077N1CNN5/ref=asc_df_B077N1CNN5/?tag=hyprod-20&linkCode=df0&hvadid=241973970700&hvpos=1o1&hvnetw=g&hvrand=4422175547534076709&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001901&hvtargid=pla-397939766836&psc=1
 
- Vizio 
 
 INPUT: 
 14:56:54.543 -> 20DFF40BDecoded NEC: 20DFF40B (32 bits)
