@@ -7,6 +7,7 @@ ESP8266, 1838T Infrared Receiver, Infrared Sender(infrared emitting diode,IR333C
 Check out this website for circuit wiring details: https://www.instructables.com/id/Universal-Remote-Using-ESP8266Wifi-Controlled/
 
 https://www.binaryhexconverter.com/hex-to-decimal-converter
+----------------------------------------------------------------------------------------------------------------------------
 
 This project can interface with Amazon Alexa (and iOS using IP address) via https://tehpsyc.pythonanywhere.com/ 
 Note: Port forward your router and change the internal IP address to external IP address on IR Controller Device Setup 
@@ -14,13 +15,17 @@ Note: Port forward your router and change the internal IP address to external IP
 Example: 
 Internal IP: http://10.0.0.107/5/on
 Change it to external IP + Port 80: http://25.68.180.15:80/5/on 
+
+----------------------------------------------------------------------------------------------------------------------------
   
 **Controling a servo motor with ESP8266:** https://www.microcontroller-project.com/servo-motor-with-nodemcu-web-control.html <br>
+
+----------------------------------------------------------------------------------------------------------------------------
 HTML converter: https://amzdatastudio.com/user/html-converter
 
 Datasheet for 1838T IR: http://wiki.epalsite.com/index.php?title=1838T_Infrared_Receiver
 
-
+----------------------------------------------------------------------------------------------------------------------------
 **VIZIO TV REMOTE**
 
 https://www.amazon.com/XRT122-D32H-D1-D32X-D1-D39H-D0-D40U-D1/dp/B077N1CNN5/ref=asc_df_B077N1CNN5/?tag=hyprod-20&linkCode=df0&hvadid=241973970700&hvpos=1o1&hvnetw=g&hvrand=4422175547534076709&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001901&hvtargid=pla-397939766836&psc=1
