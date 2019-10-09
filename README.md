@@ -6,6 +6,8 @@ ESP8266, 1838T Infrared Receiver, Infrared Sender(infrared emitting diode,IR333C
 
 Check out this website for circuit wiring details: https://www.instructables.com/id/Universal-Remote-Using-ESP8266Wifi-Controlled/
 
+**Encoding ESP8266**: Open the Arduino's output terminal and copy/paste the iP address to your browser. You should be able to control your TV from the webpage.   
+
 https://www.binaryhexconverter.com/hex-to-decimal-converter
 ----------------------------------------------------------------------------------------------------------------------------
 
