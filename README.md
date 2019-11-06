@@ -15,6 +15,10 @@ https://www.binaryhexconverter.com/hex-to-decimal-converter
 Another resource to look imto: https://github.com/ZContent/ESP8266WiFiRemote/blob/master/esp8266wifiremote.ino
 
 ----------------------------------------------------------------------------------------------------------------------------
+Decode+encode in one program (Code needs to be fixed): 
+
+https://github.com/mdhiggins/ESP8266-HTTP-IR-Blaster
+----------------------------------------------------------------------------------------------------------------------------
 
 This project can interface with Amazon Alexa (and iOS using IP address) via https://tehpsyc.pythonanywhere.com/ 
 Note: Port forward your router and change the internal IP address to external IP address on IR Controller Device Setup 
