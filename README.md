@@ -15,9 +15,10 @@ https://www.binaryhexconverter.com/hex-to-decimal-converter
 Another resource to look imto: https://github.com/ZContent/ESP8266WiFiRemote/blob/master/esp8266wifiremote.ino
 
 ----------------------------------------------------------------------------------------------------------------------------
-Decode+encode in one program (Code needs to be fixed): 
+Decode+encode in one program (May need to reconfigure your ESP8266, DNS, and Gateway): 
 
 https://github.com/mdhiggins/ESP8266-HTTP-IR-Blaster
+
 ----------------------------------------------------------------------------------------------------------------------------
 
 This project can interface with Amazon Alexa (and iOS using IP address) via https://tehpsyc.pythonanywhere.com/ 
