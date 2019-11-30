@@ -9,8 +9,8 @@
 #include <Servo.h>
 Servo servo;
  
-const char* ssid = "190WhiteStreet";
-const char* password = "whitestreethouse190";  
+const char* ssid = "?";
+const char* password = "?";  
 
 WiFiServer server(80);
  
@@ -98,7 +98,7 @@ if (request.indexOf("/Req=close") != -1)  {
 void openblinds()
 {
   servo.writeMicroseconds(1300);  // Update the servo based on servoState (1300 = right)
-  delay(10000);
+  delay(10000); //10000 = 10 seconds.  Change this value to change the number of revolutions 
   servo.writeMicroseconds(1500); // Stop servo
 }
 
