@@ -82,8 +82,6 @@ if (request.indexOf("/Req=close") != -1)  {
   client.println("<!DOCTYPE HTML>");
   client.println("<html>");
   client.println("<h1 align=center>Servo motor control over WiFi</h1><br><br>");
-  //client.print("Current position  = ");
-  //client.print(value); 
   client.println("<br><br>");
   client.println("<a href=\"/Req=open\"\"><button>open</button></a>");
   client.println("<a href=\"/Req=close\"\"><button>close</button></a>");
