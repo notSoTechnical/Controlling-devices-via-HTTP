@@ -4,7 +4,7 @@ Servo servo;
 Servo servo1;
  
 const char* ssid = "workingwithalldevices";
-const char* password = "really";
+const char* password = "tryit";
 //char* shutterFlag = "ShutterOpened";
 //char* blindsFlag = "BlindsClosed";  
 
