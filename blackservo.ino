@@ -3,8 +3,8 @@
 Servo servo;
 Servo servo1;
  
-const char* ssid = "190WhiteStreet";
-const char* password = "whitestreethouse190";
+const char* ssid = "workingwithalldevices";
+const char* password = "really";
 //char* shutterFlag = "ShutterOpened";
 //char* blindsFlag = "BlindsClosed";  
 
