@@ -8,8 +8,8 @@ const int pin = 16;
 //const int pin3 = 4;
 //const int pin4 = 0;
 MDNSResponder mdns;
-const char* ssid = "190WhiteStreet";
-const char* password = "whitestreethouse190";
+const char* ssid = "?";
+const char* password = "?";
 
 ESP8266WebServer server(80);
 String webPage = "";
