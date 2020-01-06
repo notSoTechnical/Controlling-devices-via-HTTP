@@ -39,8 +39,8 @@
 const int pin = 16;
 //Done
 
-const char* ssid = "190WhiteStreet";
-const char* password = "whitestreethouse190";
+const char* ssid = "?";
+const char* password = "?";
 MDNSResponder mdns;
 
 ESP8266WebServer server(80);
